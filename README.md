@@ -30,6 +30,15 @@ This is an interactive web application for predicting the **resale price of used
 
 ---
 
+📷 Screenshots
+---
+
+
+
+
+---
+
+
 ## 🧠 Tech Stack
 
 | Layer       | Tools & Libraries |
