@@ -33,8 +33,8 @@ This is an interactive web application for predicting the **resale price of used
 📷 Screenshots
 ---
 
-
-
+![alt image](https://github.com/deobistry/CARify/blob/main/Screenshot%20(40).png)
+![alt image](https://github.com/deobistry/CARify/blob/main/Screenshot%20(41).png)
 
 ---
 
